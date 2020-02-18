@@ -1,0 +1,32 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+
+.col {
+
+    flex: 1;
+    font-size: 50px;
+
+    border-width: 1px;
+    border-style: dashed;
+    border-color: red;
+
+    width: 280px;
+}
+
+.game {
+
+    margin-top: 550px;
+    width: 250px;
+    border: 1px;
+    border-width: 1px;
+    border-style: dashed;
+    border-color: red;
+    margin: 0 auto;
+    text-align: center;
+}
